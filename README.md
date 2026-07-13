@@ -38,3 +38,7 @@ Projeyi bilgisayarınızda (VS Code veya Android Studio üzerinden) çalıştır
   <img alt="CartScreen" src="https://github.com/user-attachments/assets/a213fdc6-8263-4db3-8d7e-bd185f5c4c31" width="18%">
   <img alt="EmptyCart" src="https://github.com/user-attachments/assets/7b0cddba-69e2-4376-a298-b3694d2bc6b7" width="18%">
 </div>
+
+## 👨‍💻 Geliştirici
+
+**Emir Erbil** [![GitHub](https://img.shields.io/badge/GitHub-Hrjdev-181717?style=for-the-badge&logo=github)](https://github.com/Hrjdev)
