@@ -1,17 +1,31 @@
-# flutter_application_1
+# Mini Katalog Uygulaması (Shop App)
 
-A new Flutter project.
+## Kısa Açıklama
+Bu proje, Flutter eğitim kampı kapsamında geliştirilmiş olan temel seviye bir "Mini Katalog Uygulaması"dır. Uygulama, ürünlerin grid yapısıyla (GridView) listelendiği bir ana sayfa, ürünlerin ayrıntılı bir şekilde incelenebildiği detay sayfası ve seçilen ürünlerin sepete eklenip gösterildiği bir sepet simülasyonu içermektedir. Projenin geliştirilme amacı; Stateless/Stateful widget kullanımı, Navigator ile sayfalar arası geçiş, basit state yönetimi ve API üzerinden alınan JSON verilerinin modellenmesi gibi temel Flutter yapı taşlarını uygulamalı olarak göstermektir.
 
-## Getting Started
+## Kullanılan Flutter Sürümü
+* **Flutter SDK:** 3.x.x (Dart SDK: ^3.12.2)
 
-This project is a starting point for a Flutter application.
+## Çalıştırma Adımları
+Projeyi bilgisayarınızda (VS Code veya Android Studio üzerinden) çalıştırmak için lütfen aşağıdaki adımları izleyin:
 
-A few resources to get you started if this is your first Flutter project:
+1. **Projeyi indirin veya klonlayın:**
+   ```bash
+   git clone <REPOSITORY_URL>
+   ```
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+2. **Proje dizinine gidin:**
+   ```bash
+   cd shop_app
+   ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. **Gerekli paketleri ve bağımlılıkları yükleyin:**
+   ```bash
+   flutter pub get
+   ```
+
+4. **Projeyi başlatın:**
+   Android Emulator veya fiziksel bir cihaz bağladıktan sonra uygulamayı derlemek için aşağıdaki komutu çalıştırın:
+   ```bash
+   flutter run
+   ```
