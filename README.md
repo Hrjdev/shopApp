@@ -34,7 +34,7 @@ Projeyi bilgisayarınızda (VS Code veya Android Studio üzerinden) çalıştır
 <div align="center">
   <img alt="LoginScreen" src="https://github.com/user-attachments/assets/df4ec830-4970-493f-9a9d-ac45db859333" width="18%">
   <img alt="ExploreScreen" src="https://github.com/user-attachments/assets/f7cd5260-0f7e-40e9-948b-089dce7fcf59" width="18%">
-  <img alt="DetailScreen" src="https://github.com/user-attachments/assets/07d28708-d4c8-4359-925b-d5bf49dab763" width="12%">
+  <img alt="DetailScreen" src="https://github.com/user-attachments/assets/07d28708-d4c8-4359-925b-d5bf49dab763" width="18%">
   <img alt="CartScreen" src="https://github.com/user-attachments/assets/a213fdc6-8263-4db3-8d7e-bd185f5c4c31" width="18%">
-  <img alt="EmptyCart" src="https://github.com/user-attachments/assets/7b0cddba-69e2-4376-a298-b3694d2bc6b7" width="12%">
+  <img alt="EmptyCart" src="https://github.com/user-attachments/assets/7b0cddba-69e2-4376-a298-b3694d2bc6b7" width="18%">
 </div>
