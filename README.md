@@ -42,4 +42,6 @@ Projeyi bilgisayarınızda (VS Code veya Android Studio üzerinden) çalıştır
 ## 👨‍💻 Geliştirici
 
 **Emir Erbil** 
-[![GitHub](https://img.shields.io/badge/GitHub-Hrjdev-181717?style=for-the-badge&logo=github)](https://github.com/Hrjdev)
+
+
+**[![GitHub](https://img.shields.io/badge/GitHub-Hrjdev-181717?style=for-the-badge&logo=github)](https://github.com/Hrjdev)**
