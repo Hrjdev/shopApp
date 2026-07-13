@@ -1,3 +1,8 @@
+<img width="594" height="1296" alt="CartScreen" src="https://github.com/user-attachments/assets/71b0e3da-fd18-4908-a645-fd6a9dba16e4" />
+<img width="625" height="1332" alt="LoginScreen" src="https://github.com/user-attachments/assets/c31c3ad4-51cf-48cf-9239-1b0893d83fcf" />
+<img width="622" height="1303" alt="ExploreScreen" src="https://github.com/user-attachments/assets/91bd4770-f7c8-4def-94a9-4e7b93ce47c1" />
+<img width="647" height="1293" alt="EmptyCart" src="https://github.com/user-attachments/assets/02b3940d-d0c5-4163-a00b-3bc43b11ad42" />
+<img width="644" height="1312" alt="DetailScreen" src="https://github.com/user-attachments/assets/6187b253-8dc8-47ab-80a2-6e9ff719e73d" />
 # Mini Katalog Uygulaması (Shop App)
 
 ## Kısa Açıklama
