@@ -11,7 +11,7 @@ Projeyi bilgisayarınızda (VS Code veya Android Studio üzerinden) çalıştır
 
 1. **Projeyi indirin veya klonlayın:**
    ```bash
-   git clone <REPOSITORY_URL>
+   git clone https://github.com/Hrjdev/shopApp
    ```
 
 2. **Proje dizinine gidin:**
